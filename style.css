@@ -1,0 +1,26 @@
+.container.calc {
+    text-align: center;
+}
+table.demo {
+    margin: auto;
+}
+button {
+    width: 40px;
+    height: 31px;
+    font-size: 18px;
+}
+input#screen {
+    height: 43px;
+    background-color: azure;
+}
+table.demo {
+    margin: auto;
+   
+}
+.calculator {
+    display: inline-grid;
+    
+        /* background-color: currentcolor; */
+        border: 1px solid black;
+        background: beige;
+    }
